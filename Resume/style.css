@@ -1,0 +1,35 @@
+.name{
+    position: absolute;
+    text-align: center;
+    font-size: 1rem;
+    left: 10%;
+    top: 7%;
+}
+.pic{
+    position: absolute;
+    left: 1%;
+    top: 6%;
+    height: 150px;
+    width: 150px;
+    border-radius: 50% 50% 50% 50%;
+    background-color: violet;
+
+}
+
+.about{
+    position: absolute;
+    font-size: 1rem;
+    top: 10%;
+    right: 7%;
+}
+n.{
+    position: absolute;
+    top: 10%;
+    right: 50%;
+
+}
+.edu{
+    position: absolute;
+    top: 50%;
+    left: 8%;
+}
